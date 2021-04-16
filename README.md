@@ -1,1 +1,2 @@
-# Lab12
+clases del jueves 
+Hola
